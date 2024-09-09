@@ -1,0 +1,3 @@
+.sidebar #sidebarToggle:focus{
+    box-shadow: none;
+}
